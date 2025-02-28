@@ -1,4 +1,4 @@
-## Hi, I am Tilak Prasad A S
+<h1 align="center">Hi, I am Tilak Prasad A S</h1>
 
 <!--
 **TilakPrasad3012/TilakPrasad3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
